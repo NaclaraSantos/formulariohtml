@@ -5,10 +5,12 @@
  
 }
 #Título{
-  padding-top: 5%;
+  padding-top: 7%;
   font-family: sans-serif;
   color:rgb(199, 110, 8);
   margin-left: 7%;
+  margin-top: 20%;
+ 
 }
 #Subtitulo{
   font-family: sans-serif;
@@ -55,7 +57,7 @@ fieldset.grupo.campo{
   padding-right: 1em;
 }
 .campo input :focus, .campo select :focus, .campo textarea:focus{
-background-color: #e0e0f8;
+background-color: #fff;
 }
 .botao{
   font-size: 1.2em;
@@ -77,7 +79,11 @@ background-color: #e0e0f8;
   background-color: #fff;
   padding-left: 5%;
   padding-bottom: 5%;
+  margin-right: 20%;
 }
 .formulario{
   background-color: #fff;
+  margin-right: 20%;
 }
+
+
